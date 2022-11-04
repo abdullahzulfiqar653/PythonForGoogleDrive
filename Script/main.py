@@ -4,6 +4,7 @@ from src import (
     upload_files_to_gdrive,
     list_out_file_from_gdrive,
     download_files_from_gdrive,
+    create_file_and_write_text_init,
     )
 
 
@@ -16,3 +17,4 @@ upload_file_list = ['samplefile1.txt', 'samplefile2.txt'] #List of file to be up
 upload_files_to_gdrive(upload_file_list, drive, driveId)
 file_list_in_drive = list_out_file_from_gdrive(drive, driveId) #List of files to List from gdrive
 download_files_from_gdrive(file_list_in_drive)
+create_file_and_write_text_init(drive, driveId)
