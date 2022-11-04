@@ -19,9 +19,14 @@ package used: ```https://pythonhosted.org/PyDrive/index.html```
 **making environment and installing dependencies on macOS/Linux/Windows**
 
 1: 
-```pip install pipenv```
+```
+pip install pipenv
+```
 
-2: ```pipenv install```
+2:
+```
+pipenv install
+```
 
 after that use the command: `pipenv --venv` so will have the interpretar path.
 Select interpreter from this path and activate the environment
