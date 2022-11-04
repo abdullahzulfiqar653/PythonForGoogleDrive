@@ -9,20 +9,6 @@ package used:
 https://pythonhosted.org/PyDrive/index.html
 ```
 
-**clone project using HTTPS or SSH**
-
-**_HTTPS:_**
-```
-https://github.com/abdullahzulfiqar785/PythonForGoogleDrive.git
-```
-
-**_SSH:_(to use SSH set your email in local project config file)**
-```
-git@github.com:abdullahzulfiqar785/PythonForGoogleDrive.git
-```
-
-**make and activate environment for project using command given**
-
 **making environment and installing dependencies on macOS/Linux/Windows**
 
 ```
