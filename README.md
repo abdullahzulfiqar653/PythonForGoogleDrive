@@ -16,11 +16,12 @@ package used: `https://pythonhosted.org/PyDrive/index.html`
 
 **make and activate environment for project using command given**
 
-1: **making environment and installing dependencies on macOS/Linux/Windows**
-i: pip install pipenv
-ii: pipenv install
+**making environment and installing dependencies on macOS/Linux/Windows**
 
-after that use the command **pipenv --venv** so will have the interpretar path.
+1: `pip install pipenv`
+2: `pipenv install`
+
+after that use the command: `pipenv --venv` so will have the interpretar path.
 Select interpreter from this path and activate the environment
 
 **Setup client_secrets.json**
